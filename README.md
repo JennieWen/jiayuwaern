@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jiayu Wen</h1>
 <h3 align="center">Frontend developer / Designer</h3>
 <h6 align="center">base in Stockholm, Sweden</h6>
-I am passionate about human interaction and creating useful and user-friendly products. I have a big interest in front-end and UI/UX design and have previously worked as a digital/graphic designer in Stockholm. If you want to check my projects please click [here](https://www.jiayuwenn.com/) to visit my website, know about my experiences please click [here](https://www.jiayuwenn.com/resume). I hope you enjoy my work and please feel free contact me if you have any questions!
+- I am passionate about human interaction and creating useful and user-friendly products. I have a big interest in front-end and UI/UX design and have previously worked as a digital/graphic designer in Stockholm. If you want to check my projects please click [here](https://www.jiayuwenn.com/) to visit my website, know about my experiences please click [here](https://www.jiayuwenn.com/resume). I hope you enjoy my work and please feel free contact me if you have any questions!
+Know about my experiences [here](https://www.jiayuwenn.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
