@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jiayu Wen</h1>
-<h3 align="center">A passionate frontend developer base in Stockholm, Sweden</h3>
+<h3 align="center">A passionate designer/frontend developer base in Stockholm, Sweden</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.jiayuwenn.com/](https://www.jiayuwenn.com/)
+👨‍💻 All of my projects are available at [Portfolio website](https://www.jiayuwenn.com/)
 
-- 📫 How to reach me **jiayu.wen@appliedtechnology.se**
+📄 Know about my experiences [Resume](https://www.jiayuwenn.com/resume)
 
-- 📄 Know about my experiences [https://www.jiayuwenn.com/resume](https://www.jiayuwenn.com/resume)
+📫 Send me an [email](jiayu.wen@appliedtechnology.se)
 
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jiayuwaern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiayuwaern" height="30" width="40" /></a>
