@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jiayu Wen</h1>
-<h3 align="center">A passionate designer/frontend developer base in Stockholm, Sweden</h3>
+<h3 align="center">Frontend developer / Designer</h3>
+<h6 align="center">base in Stockholm, Sweden</h6>
+I am passionate about human interaction and creating useful and user-friendly products. I have a big interest in front-end and UI/UX design and have previously worked as a digital/graphic designer in Stockholm. If you want to check my projects please click [here](https://www.jiayuwenn.com/) to visit my website, know about my experiences please click [here](https://www.jiayuwenn.com/resume). I hope you enjoy my work and please feel free contact me if you have any questions!
 
-👨‍💻 All of my projects are available at [Portfolio website](https://www.jiayuwenn.com/)
-
-📄 Know about my experiences [Resume](https://www.jiayuwenn.com/resume)
-
-📫 Send me an [email](jiayu.wen@appliedtechnology.se)
-
-
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jiayuwaern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiayuwaern" height="30" width="40" /></a>
